@@ -1,4 +1,4 @@
-WooCommerce WhatsApp Support Widget
+#WooCommerce WhatsApp Support Widget
 
 A lightweight, smart, and modular WordPress plugin that adds a floating WhatsApp chat widget to your WooCommerce store.
 
@@ -6,7 +6,7 @@ The plugin automatically detects WooCommerce product pages and includes the prod
 
 ⸻
 
-🚀 Key Features
+##🚀 Key Features
 
 * Smart Page Detection: Automatically detects WooCommerce product pages and retrieves the product title and permalink.
 * Direct WhatsApp Integration: Opens WhatsApp Web or the WhatsApp mobile app with a pre-filled support message.
